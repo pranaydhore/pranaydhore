@@ -18,49 +18,45 @@
 - 🏏 Cricket Enthusiast & Competitive Player
 - 🌍 **Portfolio Website:** [Visit Here](https://yourportfolio.com)
 - 🔥 Exploring **Cloud Computing & DevOps**
-- 📢 **Technical Blogger on Medium & LinkedIn**
-- 🎮 **Casual Gamer & Tech Geek**
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
 ### 💻 Languages & Frameworks
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-555555?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-336699?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F1E05A?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-555555?style=for-the-badge&logo=react&logoColor=61DAFB)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 ### 📊 Data Science & Analytics
-![Power BI](https://img.shields.io/badge/Power%20BI-FF9900?style=for-the-badge&logo=power%20bi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![RapidMiner](https://img.shields.io/badge/RapidMiner-FB8500?style=for-the-badge&logo=rapidminer&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-FFB703?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FC7303?style=for-the-badge&logo=tensorflow&logoColor=white)
+![RapidMiner](https://img.shields.io/badge/RapidMiner-FF6F00?style=for-the-badge&logo=rapidminer&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ### ⚙️ Tools & Platforms
-![GitHub](https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ---
 
 ## 📈 GitHub Stats & Trophies
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=gruvbox" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=gruvbox"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=gruvbox&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&margin-w=15"/>
 </div>
 
 ---
@@ -69,15 +65,14 @@
 🔹 [Project 1](https://github.com/YourGitHubUsername/Project1) - Short Description
 🔹 [Project 2](https://github.com/YourGitHubUsername/Project2) - Short Description
 🔹 [Project 3](https://github.com/YourGitHubUsername/Project3) - Short Description
-🔹 [Blog Posts & Tutorials](https://medium.com/@YourUsername) - Sharing Tech Insights
 
 ---
 
 ## 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-336699?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
-[![GitHub](https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourLinkedInUsername)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourGitHubUsername)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YourTwitterUsername)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@YourUsername)
 
@@ -85,4 +80,4 @@
 
 ⭐ **If you find my profile interesting, drop a star!** ⭐
 
-![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=336699)
+![Visitor Count](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=brightgreen)
