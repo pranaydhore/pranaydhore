@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E0FF,100:7400FF&height=180&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=40&fontAlignY=40&animation=fadeIn"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Data+Scientist+%7C+Web+Developer+%7C+Tech+Enthusiast;Lifelong+Learner+%7C+Open+to+Collaboration;Building+Innovative+Solutions!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0AEFFF&width=600&lines=Data+Analyst+%7C+Data+Scientist+%7C+AI+Enthusiast;Power+BI+%7C+Python+%7C+SQL+%7C+Tableau;Transforming+Data+Into+Insights;Always+Learning+%26+Exploring+New+Tech!"/>
 </div>
 
 ---
