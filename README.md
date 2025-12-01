@@ -1,10 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20Data%20Explorer!&fontSize=40&fontAlignY=40&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0099F7,100:00C9A7&height=180&section=header&text=Hello%20Data%20World!&fontSize=40&animation=fadeIn&fontAlignY=40"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&size=24&pause=1000&color=FF8C00&width=700&lines=Data+Analyst+%7C+Power+BI+Developer;Python+%7C+SQL+%7C+Excel+Expert;Turning+Raw+Data+into+Actionable+Insights;Passionate+About+Business+Analytics+%26+Visualization"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1200&color=00A8E8&width=650&lines=Data+Analyst+%7C+Business+Intelligence+Developer;Skilled+in+Power+BI%2C+SQL%2C+Python%2C+Excel;Data-Driven+Decisions+for+Real-World+Impact;Continuously+Improving+and+Growing"/>
 </div>
+
 
 
 
