@@ -7,12 +7,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=700&size=28&pause=1000&color=F57F17&width=800&lines=Data+Analyst+%7C+Power+BI+Developer+%7C+Prompt+Engineer;Python+%7C+SQL+%7C+Excel+Specialist;Transforming+Data+Into+Business+Insights;Passionate+About+Analytics%2C+Visualization+%26+AI;Delivering+Data-Driven+Decisions+for+Real+Impact"/>
 </div>
 
-<!-- Reflection (soft, blurred, lighter color, slower speed) -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=400&size=22&pause=1500&color=FFA94D&width=800&duration=4000&vCenter=true&lines=Data+Analyst+%7C+BI+Developer+%7C+Prompt+Engineer;Enhancing+Dashboards+with+Power+BI;Crafting+Meaningful+Insights+From+Data;Committed+to+Continuous+Learning+and+Growth" style="opacity:0.55;filter:blur(0.3px);" />
-</div>
-
-
 
 ---
 
